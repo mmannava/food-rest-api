@@ -5,6 +5,8 @@ app.get('/', (req, res) => {
     res.send('Welcome to food rest api');
 });
   
+app.use(express.json());
+
 const foods = [{
         id: 1,
         name: 'Acai Bowl'
@@ -27,6 +29,16 @@ app.get('/foods', (req, res) => {
 app.get('/foods/:id', (req, res) => {
     const food = foods.find(g => g.id === parseInt(req.params.id));
     if (!food) return res.status(404).send('The food with the given ID was not found.');
+    res.send(food);
+});
+
+// add food
+app.post('/foods', (req, res) => {
+    const food = {
+        id: foods.length + 1,
+        name: req.body.name
+    }
+    foods.push(food);
     res.send(food);
 });
 
