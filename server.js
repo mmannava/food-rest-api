@@ -51,5 +51,16 @@ app.put('/foods/:id', (req, res) => {
     res.send(food);
 });
 
+// delete a food
+app.delete('/foods/:id', (req, res) => {
+    const food = foods.find(g => g.id === parseInt(req.params.id));
+    if (!food) return res.status(404).send('The food with the given ID was not found.');
+ 
+    const index = foods.indexOf(food);
+    foods.splice(index, 1);
+ 
+    res.send(food);
+});
+
 const port = process.env.PORT || 5689;
 app.listen(port, () => console.log(`Listening on port ${port}...`));
