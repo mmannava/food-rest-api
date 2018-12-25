@@ -42,5 +42,14 @@ app.post('/foods', (req, res) => {
     res.send(food);
 });
 
+// update a food
+app.put('/foods/:id', (req, res) => {
+    const food = foods.find(g => g.id === parseInt(req.params.id));
+    if (!food) return res.status(404).send('The food with the given ID was not found.');
+  
+    food.name = req.body.name;
+    res.send(food);
+});
+
 const port = process.env.PORT || 5689;
 app.listen(port, () => console.log(`Listening on port ${port}...`));
