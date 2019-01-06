@@ -28,9 +28,6 @@
 * Get food Response
 ![get food res](https://github.com/mmannava/HTTP-VERBS-Req-Res/blob/master/Get_food_res.PNG)
 
-### REST API service url:
-https://food-rest-api-manasa-mannava.herokuapp.com/foods
-
 ## 2. HTTP POST
 
 * Post food Request
@@ -56,3 +53,6 @@ https://food-rest-api-manasa-mannava.herokuapp.com/foods
 
 * Delete food Response
 ![delete food res](https://github.com/mmannava/HTTP-VERBS-Req-Res/blob/master/delete_food_res.PNG)
+
+## REST API service url:
+https://food-rest-api-manasa-mannava.herokuapp.com/foods
