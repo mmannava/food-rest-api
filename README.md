@@ -9,3 +9,6 @@
 * git source control
 * deployment on heroku cloud platform
 * node paackage management
+
+### REST API service url:
+https://food-rest-api-manasa-mannava.herokuapp.com/foods
