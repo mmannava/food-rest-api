@@ -13,7 +13,7 @@
 
 ### API Documentation:
 
-![get all req](https://github.com/mmannava/HTTP-VERBS-Req-Res/Get_all_req.PNG)
+![get all req](https://github.com/mmannava/HTTP-VERBS-Req-Res/blob/master/Get_all_req.PNG)
 
 ### REST API service url:
 https://food-rest-api-manasa-mannava.herokuapp.com/foods
