@@ -11,6 +11,8 @@
 * node paackage management
 * HTTP Verbs supported : GET, PUT, POST, DELETE
 
+### API Documentation
+
 ### REST API service url:
 https://food-rest-api-manasa-mannava.herokuapp.com/foods
 
