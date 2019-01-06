@@ -48,3 +48,11 @@ https://food-rest-api-manasa-mannava.herokuapp.com/foods
 
 * Put food Response
 ![put food res](https://github.com/mmannava/HTTP-VERBS-Req-Res/blob/master/put_food_res.PNG)
+
+## 4. HTTP DELETE
+
+* Delete food Request
+![delete food req](https://github.com/mmannava/HTTP-VERBS-Req-Res/blob/master/delete_food_req.PNG)
+
+* Delete food Response
+![delete food res](https://github.com/mmannava/HTTP-VERBS-Req-Res/blob/master/delete_food_res.PNG)
