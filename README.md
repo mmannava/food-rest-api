@@ -13,6 +13,7 @@
 
 ### API Documentation:
 
+## HTTP GET
 * Get all foods Request
 
 ![get all req](https://github.com/mmannava/HTTP-VERBS-Req-Res/blob/master/Get_all_req.PNG)
