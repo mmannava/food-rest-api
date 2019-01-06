@@ -25,6 +25,9 @@
 
 ![get food req](https://github.com/mmannava/HTTP-VERBS-Req-Res/blob/master/Get_food_req.PNG)
 
+* Get food Response
+![get food res](https://github.com/mmannava/HTTP-VERBS-Req-Res/blob/master/Get_food_res.PNG)
+
 ### REST API service url:
 https://food-rest-api-manasa-mannava.herokuapp.com/foods
 
