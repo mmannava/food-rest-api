@@ -39,3 +39,12 @@ https://food-rest-api-manasa-mannava.herokuapp.com/foods
 
 * Post food Response
 ![post food res](https://github.com/mmannava/HTTP-VERBS-Req-Res/blob/master/post_food_res.PNG)
+
+## 3. HTTP PUT
+
+* Put food Request
+
+![put food req](https://github.com/mmannava/HTTP-VERBS-Req-Res/blob/master/put_food_req.PNG)
+
+* Put food Response
+![put food res](https://github.com/mmannava/HTTP-VERBS-Req-Res/blob/master/put_food_res.PNG)
