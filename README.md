@@ -8,7 +8,7 @@
 * RESTful API
 * git source control
 * deployment on heroku cloud platform
-* node paackage management
+* node package management
 * HTTP Verbs supported : GET, POST, PUT, DELETE
 
 ### API Documentation:
