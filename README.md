@@ -4,7 +4,7 @@
 
 ### Concepts Illustrated
 
-* server side javascript
+* server side javascript / node.js
 * RESTful API
 * git source control
 * deployment on heroku cloud platform
