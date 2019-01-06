@@ -9,7 +9,7 @@
 * git source control
 * deployment on heroku cloud platform
 * node paackage management
-* HTTP Verbs supported : GET, PUT, POST, DELETE
+* HTTP Verbs supported : GET, POST, PUT, DELETE
 
 ### API Documentation:
 
