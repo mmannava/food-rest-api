@@ -31,4 +31,11 @@
 ### REST API service url:
 https://food-rest-api-manasa-mannava.herokuapp.com/foods
 
+## 2. HTTP POST
 
+* Post food Request
+
+![post food req](https://github.com/mmannava/HTTP-VERBS-Req-Res/blob/master/post_food_req.PNG)
+
+* Post food Response
+![post food res](https://github.com/mmannava/HTTP-VERBS-Req-Res/blob/master/post_food_res.PNG)
